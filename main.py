@@ -19,4 +19,18 @@ hobbies= list("cocinar", "jugar", "dormir", "musica")
 #hobbies[2]="despertar"
 hobbies.pop
 
+#libreria matematica 
+#import math
+#operadores aritmeticos "number"
+#+ -* / // ** %
+#num1=5
+#num2=5
+
+#operador aritmetico abreviado
+
+#num1+=num2
+
+#operadores de comparacion
+
+#> == != !==
 
